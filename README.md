@@ -73,7 +73,7 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=akasharkxx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
