@@ -70,14 +70,7 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 </div>  
 
 <br/>  
-
-
 </td></tr></table>  
-
-<br/>  
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31nl6m5tliolsmuti4wpkgkogxci&cover_image=true&theme=default&show_offline=false)  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akasharkxx&&style=flat-square)  
