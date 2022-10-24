@@ -32,7 +32,7 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I'm currently working on my game engine.  
+- I'm currently working on my game engine kind of project.  
   
 
 - I'm learning Unreal Engine 🕹️  
