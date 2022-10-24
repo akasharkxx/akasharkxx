@@ -72,15 +72,6 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akasharkxx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -91,11 +82,3 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akasharkxx&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
