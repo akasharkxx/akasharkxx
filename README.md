@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX.  My skillset also includes Unreal, C++, blueprints, 3D modeling, and other small things to get by for making video games. <br/>
+I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and other small things to get by for making video games. <br/>
 Recently I have developed an interest in creating my small game engine to learn more about how Unity and Unreal work. 
 I am an avid gamer and manga fan. But you will also find me reading fiction and watching movies and series. Cycling and working out are my other hobbies.   
   
@@ -32,15 +32,13 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I'm currently working on a rendering engine as a personal project  
-- At redline game I make hyper casual games
-  
-- I use C# at day job and C++ for my side projects
-  
-- We can have conversations about anything related to video games🎮  
-  
-- I love Taylor Swift, Comics, Anime,  
+- I'm currently working on a rendering engine  
 
+- At redline game I enjoy making hyper casual games
+  
+- I use C# at my day job and love to write C++ code
+  
+- We can have conversations about anything related to Video games, Taylor Swift, Comics, Anime, Witcher, Sitcoms and Movies
 
 </td><td valign="top" width="50%">
 
