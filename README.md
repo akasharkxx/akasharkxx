@@ -32,16 +32,14 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I'm currently working on my game engine kind of project.  
+- I'm currently working on a rendering engine as a personal project  
+- At redline game I make hyper casual games
   
-
-- I'm learning Unreal Engine 🕹️  
+- I use C# at day job and C++ for my side projects
   
-
 - We can have conversations about anything related to video games🎮  
   
-
-- I love Taylor Swift  
+- I love Taylor Swift, Comics, Anime,  
 
 
 </td><td valign="top" width="50%">
