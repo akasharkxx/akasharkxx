@@ -21,7 +21,7 @@
 
 
 ### Glad to see you here!  
-I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and other small things to get by for making video games. <br/>
+I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and some other tools for making video games. <br/>
 Recently I have developed an interest in creating my small game engine to learn more about how Unity and Unreal work. 
 I am an avid gamer and manga fan. But you will also find me reading fiction and watching movies and series. Cycling and working out are my other hobbies.   
   
