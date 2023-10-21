@@ -16,10 +16,8 @@
 <a href="https://instagram.com/akash_swiftie_tv" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://drive.google.com/file/d/1BVfkVwGZ0zmImB2HZUhHE6UNArdTsHuN/view?usp=share_link" target="_blank">
 <h3 Color=white alt=instagram style="margin-bottom: 5px;"> Work at Redline games</h3>
-  <iframe src="https://drive.google.com/file/d/1BVfkVwGZ0zmImB2HZUhHE6UNArdTsHuN/preview" width="640" height="480" allow="autoplay"></iframe>
-</a>
+<iframe src="https://drive.google.com/file/d/1BVfkVwGZ0zmImB2HZUhHE6UNArdTsHuN/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 ### Glad to see you here!  
