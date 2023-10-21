@@ -16,9 +16,6 @@
 <a href="https://instagram.com/akash_swiftie_tv" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<h3 Color=white alt=instagram style="margin-bottom: 5px;"> Work at Redline games</h3>
-<video src="https://drive.google.com/file/d/1BVfkVwGZ0zmImB2HZUhHE6UNArdTsHuN/preview" controls="controls" style="max-width: 730px;">
-</video>
 
 ### Glad to see you here!  
 I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and some other tools for making video games. <br/>
