@@ -51,15 +51,7 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>
-<a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://github.com/akasharkxx/akasharkxx/blob/main/icons8-unreal-engine-50.png" alt="Unreal" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unreal,blender,unity,css,visualstudio,vscode,gitlab,github,firebase,androidstudio)](https://skillicons.dev)
 </div>  
 
 <br/>  
@@ -67,5 +59,3 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akasharkxx&&style=flat-square)  
-  
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unreal,blender,unity,css,visualstudio,vscode,gitlab,github,firebase,androidstudio)](https://skillicons.dev)
