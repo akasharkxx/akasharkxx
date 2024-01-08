@@ -68,3 +68,4 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=akasharkxx&&style=flat-square)  
   
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
