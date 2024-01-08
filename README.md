@@ -49,10 +49,8 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
+## Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,unreal,blender,unity,css,visualstudio,vscode,gitlab,github,firebase,androidstudio)](https://skillicons.dev)
-</div>  
 
 <br/>  
 </td></tr></table>  
