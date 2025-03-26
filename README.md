@@ -19,7 +19,7 @@
 
 ### Glad to see you here!  
 I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and some other tools for making video games. <br/>
-Recently I have developed an interest in creating my small game engine to learn more about how Unity and Unreal work. 
+Recently, I have developed an interest in creating my own small game engine to learn more about how Unity and Unreal work. 
 I am an avid gamer and manga fan. But you will also find me reading fiction and watching movies and series. Cycling and working out are my other hobbies.   
   
 
@@ -29,13 +29,13 @@ I am an avid gamer and manga fan. But you will also find me reading fiction and 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I'm currently working on a rendering engine  
+- I'm currently working on creating a game framework  
 
-- At redline game I enjoy making hyper casual games
+- At EA, I handle multiple titles that are played by millions of users
   
-- I use C# at my day job and love to write C++ code
+- I use C# at my day job and love to write C++ code at night
   
-- We can have conversations about anything related to Video games, Taylor Swift, Comics, Anime, Witcher, Sitcoms and Movies
+- We can have conversations about anything related to Video Games, Mangas, Books, Witcher, Sitcoms, and Movies
 
 </td><td valign="top" width="50%">
 
