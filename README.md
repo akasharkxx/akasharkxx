@@ -1,59 +1,69 @@
-## Hey 👋, I'm Akash Jaiswar!  
-  
+## Hey, 👋, I'm Akash Jaiswar!
 
-<a href="https://github.com/akasharkxx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Akashjaiswar1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/r1phunt3r" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/akashSwiftieTv" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/akash_swiftie_tv" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+### 🎮 About Me
 
-### Glad to see you here!  
-I'm a game developer. I have professional experience in Unity, C#, shaders, and VFX. My skillset also includes Unreal, C++, blueprints, 3D modeling, and some other tools for making video games. <br/>
-Recently, I have developed an interest in creating my own small game engine to learn more about how Unity and Unreal work. 
-I am an avid gamer and manga fan. But you will also find me reading fiction and watching movies and series. Cycling and working out are my other hobbies.   
-  
+I'm a **Game Programmer** with **4+ years of experience** specializing in **C++, Unreal Engine, Unity**, and game engine development. I excel at building **gameplay systems, rendering pipelines, and networking features**. My work ranges from optimizing flagship mobile games to crafting custom game frameworks and engines.
 
-<br/>  
+Currently, I'm focused on **deepening my C++ expertise** and building a **custom rendering engine**, while continuously exploring **OpenGL, DirectX, and low-level systems**. I thrive on solving complex problems and pushing the boundaries of interactive experiences.
 
+When I'm not coding, you'll find me gaming, reading manga, or hitting the gym. 🏋️
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+---
 
-- I'm currently working on creating a game framework  
+### ⚡ Rapidfire
 
-- At EA, I handle multiple titles that are played by millions of users
-  
-- I use C# at my day job and love to write C++ code at night
-  
-- We can have conversations about anything related to Video Games, Mangas, Books, Witcher, Sitcoms, and Movies
+- 🔥 Building a **custom C++ rendering engine**
+- 🕹️ **Optimizing and enhancing flagship games** at **EA (via GameShastra)**
+- 📚 Learning **OpenGL, DirectX, Metal, Vulkan, and advanced C++**
+- 🎯 Created a **networked AI** system using **Unity Netcode**
+- 💬 Let's discuss **Game Development, Taylor Swift, Anime, or Sitcoms**
 
-</td><td valign="top" width="50%">
+---
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+WORK IN PROGRESS BELOW! 
+SOON THIS WILL BE UPGRADED
 
+### 📂 Featured Projects
 
-</td></tr></table>  
+NOTE: ALL are work in progress
+🚀 **[Networked AI in Unity](https://github.com/akasharkxx/networked-ai)**\
+A **multiplayer-ready** enemy AI system using **Unity Netcode** and a modular **state machine**.
 
-<br/>  
+🛠️ **[Custom C++ Game Framework](https://github.com/akasharkxx/game-framework)**\
+A **modular C++ framework** featuring **texture loading, camera systems, sound support**, and more.
+
+🎮 **[Modern Brickbreaker](https://github.com/akasharkxx/brickbreaker)**\
+A **Unity** game with a **level editor**, supporting **custom prefab creation and saving**.
+
+🖼️ **[OpenGL Renderer](https://github.com/akasharkxx/opengl-renderer)**\
+A basic **OpenGL renderer** supporting **lighting, model loading, and shadows**.
+
+🧩 **[Memory Flip Game](https://github.com/akasharkxx/memory-flip)**\
+A **Unity** memory-matching game with an added **shape generator** and a streak bonus system.
+
+---
+
+### 🛠️ Languages and Tools
 
 
-## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unreal,blender,unity,css,visualstudio,vscode,gitlab,github,firebase,androidstudio)](https://skillicons.dev)
 
-<br/>  
-</td></tr></table>  
-<br/>  
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=akasharkxx&&style=flat-square)  
+### 📊 GitHub Stats
+
+
+
+
+
+---
+
+### 🌟 Connect with Me
+
+
+
+
+
+
+
+If you're passionate about making games, let's connect! I'm open to **collaboration, mentoring, and learning opportunities**.
+
