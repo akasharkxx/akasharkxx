@@ -16,7 +16,7 @@ Six years shipping live-service games across EA, Redline Games, and Kalam Labs.
 | **300M+** | Career downloads across shipped titles |
 | **9** | Hyper-casual titles shipped in 2–3 week cycles |
 | **3** | Studios — Electronic Arts, Redline Games, Kalam Labs |
-| **5 yrs** | Professional experience |
+| **6 yrs** | Professional experience |
 
 ---
 
