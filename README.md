@@ -1,7 +1,7 @@
 # Hey, I'm Akash Jaiswar 👋
 
 **Gameplay & Systems Programmer** &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Unity &nbsp;·&nbsp; OpenGL &nbsp;·&nbsp; SDL2  
-Five years shipping live-service games across EA, Redline Games, and Kalam Labs.
+Six years shipping live-service games across EA, Redline Games, and Kalam Labs.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-akasharkxx.github.io-C9874A?style=flat&logo=githubpages&logoColor=white)](https://akasharkxx.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akashgamedev-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashgamedev/)
